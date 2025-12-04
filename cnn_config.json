@@ -1,0 +1,9 @@
+{
+  "input_dir": "Bald Dataset",
+  "output": {
+    "model_path": "cnn_bald_classifier_model1.h5",
+    "metrics_json": "bald_classification_cnn_metadata1.json",
+    "accuracy_loss_plot": "cnn_accuracy_loss_plot1.png",
+    "confusion_matrix_plot": "cnn_confusion_matrix1.png"
+  }
+}
