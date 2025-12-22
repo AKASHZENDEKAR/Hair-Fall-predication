@@ -4,3 +4,6 @@ pandas
 scikit-learn
 tensorflow-cpu==2.14.0
 Pillow
+streamlit
+requests
+Pillow
