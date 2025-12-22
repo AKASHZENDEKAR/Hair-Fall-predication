@@ -1,9 +1,8 @@
 streamlit
-numpy
 pandas
+numpy
 scikit-learn
-tensorflow-cpu==2.14.0
-Pillow
-streamlit
-requests
-Pillow
+pillow
+tensorflow==2.12.0
+keras
+opencv-python-headless
